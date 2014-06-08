@@ -4,46 +4,46 @@ use warnings;
 
 {
     no strict "vars";
-    $VERSION = "1.00";
+    $VERSION = "1.01";
 }
 
 use Acme::CPANAuthors::Register (
 
-    'SHARYANTO'     => 'Steven Haryanto',
-    'TOBYINK'       => 'Toby Inkster',
-    'RJBS'          => 'Ricardo SIGNES',
     'ADAMK'         => 'Adam Kennedy',
-    'ZOFFIX'        => 'Zoffix Znet',
-    'TOKUHIROM'     => 'Tokuhiro Matsuno',
-    'MIYAGAWA'      => 'Tatsuhiko Miyagawa',
-    'BINGOS'        => 'Chris Williams',
-    'FLORA'         => 'Florian Ragwitz',
-    'SMUELLER'      => 'Steffen Mueller',
-    'MARCEL'        => 'Marcel Gruenauer',
-    'DAGOLDEN'      => 'David Golden',
-    'INGY'          => 'Ingy dot Net',
-    'BOBTFISH'      => 'Tomas Doran',
-    'NUFFIN'        => 'Yuval Kogman',
-    'ETHER'         => 'Karen Etheridge',
-    'DMAKI'         => 'Daisuke Maki',
-    'GUGOD'         => 'Liu Kang Min',
-    'DROLSKY'       => 'Dave Rolsky',
-    'BDFOY'         => 'brian d foy',
     'AUTRIJUS'      => 'Audrey Tang',
-    'KENTNL'        => 'Kent Fredric',
-    'RSAVAGE'       => 'Ron Savage',
-    'SIMON'         => 'Simon Cozens',
-    'SHLOMIF'       => 'Shlomi Fish',
-    'LBROCARD'      => 'Leon Brocard',
-    'FAYLAND'       => 'Fayland Lin',
-    'MRAMBERG'      => 'Marcus Ramberg',
-    'PEVANS'        => 'Paul Evans',
     'BARBIE'        => 'Barbie',
-    'MLEHMANN'      => 'Marc Lehmann',
-    'SALVA'         => 'Salvador Fandino Garcia',
-    'SZABGAB'       => 'Gabor Szabo',
-    'LEOCHARRE'     => 'Leo Charre',
+    'BDFOY'         => 'brian d foy',
+    'BINGOS'        => 'Chris Williams',
+    'BOBTFISH'      => 'Tomas Doran',
+    'DAGOLDEN'      => 'David Golden',
+    'DMAKI'         => 'Daisuke Maki',
     'DMUEY'         => 'Daniel Muey',
+    'DROLSKY'       => 'Dave Rolsky',
+    'ETHER'         => 'Karen Etheridge',
+    'FAYLAND'       => 'Fayland Lin',
+    'FLORA'         => 'Florian Ragwitz',
+    'GUGOD'         => 'Liu Kang Min',
+    'INGY'          => 'Ingy dot Net',
+    'KENTNL'        => 'Kent Fredric',
+    'LBROCARD'      => 'Leon Brocard',
+    'LEOCHARRE'     => 'Leo Charre',
+    'MARCEL'        => 'Marcel Gruenauer',
+    'MIYAGAWA'      => 'Tatsuhiko Miyagawa',
+    'MLEHMANN'      => 'Marc Lehmann',
+    'MRAMBERG'      => 'Marcus Ramberg',
+    'NUFFIN'        => 'Yuval Kogman',
+    'PEVANS'        => 'Paul Evans',
+    'RJBS'          => 'Ricardo SIGNES',
+    'RSAVAGE'       => 'Ron Savage',
+    'SALVA'         => 'Salvador Fandino Garcia',
+    'SHARYANTO'     => 'Steven Haryanto',
+    'SHLOMIF'       => 'Shlomi Fish',
+    'SIMON'         => 'Simon Cozens',
+    'SMUELLER'      => 'Steffen Mueller',
+    'SZABGAB'       => 'Gabor Szabo',
+    'TOBYINK'       => 'Toby Inkster',
+    'TOKUHIROM'     => 'Tokuhiro Matsuno',
+    'ZOFFIX'        => 'Zoffix Znet',
 
 );
 
@@ -84,8 +84,8 @@ See L<http://backpan.cpantesters.org>.
 
 =head1 THE AUTHORS
 
-   1.  430  SHARYANTO     Steven Haryanto
-   2.  299  TOBYINK       Toby Inkster
+   1.  434  SHARYANTO     Steven Haryanto
+   2.  300  TOBYINK       Toby Inkster
    3.  290  RJBS          Ricardo SIGNES
    4.  287  ADAMK         Adam Kennedy
    5.  269  ZOFFIX        Zoffix Znet
@@ -101,26 +101,26 @@ See L<http://backpan.cpantesters.org>.
   15.  161  NUFFIN        Yuval Kogman
   16.  138  ETHER         Karen Etheridge
   17.  137  DMAKI         Daisuke Maki
-  18.  135  GUGOD         Liu Kang Min
-  19.  134  DROLSKY       Dave Rolsky
-  20.  126  BDFOY         brian d foy
-  21.  125  AUTRIJUS      Audrey Tang
-  22.  125  KENTNL        Kent Fredric
+  18.  135  DROLSKY       Dave Rolsky
+  19.  135  GUGOD         Liu Kang Min
+  20.  128  KENTNL        Kent Fredric
+  21.  126  BDFOY         brian d foy
+  22.  125  AUTRIJUS      Audrey Tang
   23.  123  RSAVAGE       Ron Savage
   24.  121  SIMON         Simon Cozens
   25.  113  SHLOMIF       Shlomi Fish
-  26.  111  LBROCARD      Leon Brocard
-  27.  111  FAYLAND       Fayland Lin
+  26.  111  FAYLAND       Fayland Lin
+  27.  111  LBROCARD      Leon Brocard
   28.  110  MRAMBERG      Marcus Ramberg
   29.  109  PEVANS        Paul Evans
-  30.  107  BARBIE        Barbie
+  30.  108  BARBIE        Barbie
   31.  106  MLEHMANN      Marc Lehmann
   32.  106  SALVA         Salvador Fandino Garcia
   33.  104  SZABGAB       Gabor Szabo
-  34.  101  LEOCHARRE     Leo Charre
-  35.  101  DMUEY         Daniel Muey
+  34.  101  DMUEY         Daniel Muey
+  35.  101  LEOCHARRE     Leo Charre
 
-List last updated: 2014-06-01T07:48:11
+List last updated: 2014-06-07T05:35:30
 
 =head1 MAINTENANCE
 
@@ -147,7 +147,7 @@ L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Acme-CPANAuthors-BackPAN-OneHundred>
 
 =item * GitHub
 
-L<http://github.com/barbie/acme-cpanauthors-cpan-onehundred>
+L<http://github.com/barbie/acme-cpanauthors-backpan-onehundred>
 
 =back
 

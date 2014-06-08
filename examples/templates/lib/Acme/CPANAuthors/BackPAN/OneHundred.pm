@@ -86,7 +86,7 @@ L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Acme-CPANAuthors-BackPAN-OneHundred>
 
 =item * GitHub
 
-L<http://github.com/barbie/acme-cpanauthors-cpan-onehundred>
+L<http://github.com/barbie/acme-cpanauthors-backpan-onehundred>
 
 =back
 

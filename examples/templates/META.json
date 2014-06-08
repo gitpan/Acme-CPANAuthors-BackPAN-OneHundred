@@ -55,8 +55,8 @@
         "license": "http://www.perlfoundation.org/artistic_license_2_0",
         "bugtracker": { "web": "http://rt.cpan.org/Public/Dist/Display.html?Name=Acme-CPANAuthors-BackPAN-OneHundred" },
         "repository": {
-            "url": "git://github.com/barbie/Acme-CPANAuthors-BackPAN-OneHundred.git",
-            "web": "http://github.com/barbie/Acme-CPANAuthors-BackPAN-OneHundred",
+            "url": "git://github.com/barbie/acme-cpanauthors-backpan-onehundred.git",
+            "web": "http://github.com/barbie/acme-cpanauthors-backpan-onehundred",
             "type": "git"
         }
     }
