@@ -4,7 +4,7 @@ use warnings;
 
 {
     no strict "vars";
-    $VERSION = "1.01";
+    $VERSION = "1.02";
 }
 
 use Acme::CPANAuthors::Register (
@@ -84,8 +84,8 @@ See L<http://backpan.cpantesters.org>.
 
 =head1 THE AUTHORS
 
-   1.  434  SHARYANTO     Steven Haryanto
-   2.  300  TOBYINK       Toby Inkster
+   1.  450  SHARYANTO     Steven Haryanto
+   2.  303  TOBYINK       Toby Inkster
    3.  290  RJBS          Ricardo SIGNES
    4.  287  ADAMK         Adam Kennedy
    5.  269  ZOFFIX        Zoffix Znet
@@ -95,32 +95,32 @@ See L<http://backpan.cpantesters.org>.
    9.  207  FLORA         Florian Ragwitz
   10.  189  SMUELLER      Steffen Mueller
   11.  182  MARCEL        Marcel Gruenauer
-  12.  177  DAGOLDEN      David Golden
-  13.  176  INGY          Ingy dot Net
+  12.  179  INGY          Ingy dot Net
+  13.  177  DAGOLDEN      David Golden
   14.  172  BOBTFISH      Tomas Doran
   15.  161  NUFFIN        Yuval Kogman
-  16.  138  ETHER         Karen Etheridge
+  16.  139  ETHER         Karen Etheridge
   17.  137  DMAKI         Daisuke Maki
   18.  135  DROLSKY       Dave Rolsky
   19.  135  GUGOD         Liu Kang Min
-  20.  128  KENTNL        Kent Fredric
+  20.  130  KENTNL        Kent Fredric
   21.  126  BDFOY         brian d foy
   22.  125  AUTRIJUS      Audrey Tang
   23.  123  RSAVAGE       Ron Savage
   24.  121  SIMON         Simon Cozens
-  25.  113  SHLOMIF       Shlomi Fish
-  26.  111  FAYLAND       Fayland Lin
-  27.  111  LBROCARD      Leon Brocard
-  28.  110  MRAMBERG      Marcus Ramberg
-  29.  109  PEVANS        Paul Evans
-  30.  108  BARBIE        Barbie
-  31.  106  MLEHMANN      Marc Lehmann
-  32.  106  SALVA         Salvador Fandino Garcia
+  25.  114  BARBIE        Barbie
+  26.  113  SHLOMIF       Shlomi Fish
+  27.  111  FAYLAND       Fayland Lin
+  28.  111  LBROCARD      Leon Brocard
+  29.  111  PEVANS        Paul Evans
+  30.  110  MRAMBERG      Marcus Ramberg
+  31.  107  SALVA         Salvador Fandino Garcia
+  32.  106  MLEHMANN      Marc Lehmann
   33.  104  SZABGAB       Gabor Szabo
-  34.  101  DMUEY         Daniel Muey
+  34.  102  DMUEY         Daniel Muey
   35.  101  LEOCHARRE     Leo Charre
 
-List last updated: 2014-06-07T05:35:30
+List last updated: 2014-06-26T05:37:23
 
 =head1 MAINTENANCE
 

@@ -1,6 +1,10 @@
 Revision history for Acme-CPANAuthors-BackPAN-OneHundred
 ========================================================
 
+1.02    2014-06-27
+        [Updated Counts]
+        - SHARYANTO, TOBYINK, INGY, ETHER, KENTNL, BARBIE, PEVANS, SALVA, DMUEY
+
 1.01    2014-06-07
         - fix path to GitHub repo.
         - backup previous list (in the event we need to rerun).
