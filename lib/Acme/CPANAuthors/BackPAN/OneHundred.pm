@@ -4,7 +4,7 @@ use warnings;
 
 {
     no strict "vars";
-    $VERSION = "1.02";
+    $VERSION = "1.03";
 }
 
 use Acme::CPANAuthors::Register (
@@ -31,6 +31,7 @@ use Acme::CPANAuthors::Register (
     'MIYAGAWA'      => 'Tatsuhiko Miyagawa',
     'MLEHMANN'      => 'Marc Lehmann',
     'MRAMBERG'      => 'Marcus Ramberg',
+    'NEILB'         => 'Neil Bowers',
     'NUFFIN'        => 'Yuval Kogman',
     'PEVANS'        => 'Paul Evans',
     'RJBS'          => 'Ricardo SIGNES',
@@ -84,43 +85,44 @@ See L<http://backpan.cpantesters.org>.
 
 =head1 THE AUTHORS
 
-   1.  450  SHARYANTO     Steven Haryanto
-   2.  303  TOBYINK       Toby Inkster
+   1.  503  SHARYANTO     Steven Haryanto
+   2.  306  TOBYINK       Toby Inkster
    3.  290  RJBS          Ricardo SIGNES
    4.  287  ADAMK         Adam Kennedy
    5.  269  ZOFFIX        Zoffix Znet
-   6.  249  TOKUHIROM     Tokuhiro Matsuno
+   6.  250  TOKUHIROM     Tokuhiro Matsuno
    7.  230  MIYAGAWA      Tatsuhiko Miyagawa
-   8.  210  BINGOS        Chris Williams
+   8.  211  BINGOS        Chris Williams
    9.  207  FLORA         Florian Ragwitz
   10.  189  SMUELLER      Steffen Mueller
-  11.  182  MARCEL        Marcel Gruenauer
-  12.  179  INGY          Ingy dot Net
-  13.  177  DAGOLDEN      David Golden
+  11.  188  INGY          Ingy dot Net
+  12.  182  MARCEL        Marcel Gruenauer
+  13.  178  DAGOLDEN      David Golden
   14.  172  BOBTFISH      Tomas Doran
   15.  161  NUFFIN        Yuval Kogman
-  16.  139  ETHER         Karen Etheridge
-  17.  137  DMAKI         Daisuke Maki
-  18.  135  DROLSKY       Dave Rolsky
-  19.  135  GUGOD         Liu Kang Min
-  20.  130  KENTNL        Kent Fredric
+  16.  150  ETHER         Karen Etheridge
+  17.  140  KENTNL        Kent Fredric
+  18.  138  DROLSKY       Dave Rolsky
+  19.  137  DMAKI         Daisuke Maki
+  20.  135  GUGOD         Liu Kang Min
   21.  126  BDFOY         brian d foy
   22.  125  AUTRIJUS      Audrey Tang
   23.  123  RSAVAGE       Ron Savage
-  24.  121  SIMON         Simon Cozens
-  25.  114  BARBIE        Barbie
-  26.  113  SHLOMIF       Shlomi Fish
-  27.  111  FAYLAND       Fayland Lin
-  28.  111  LBROCARD      Leon Brocard
-  29.  111  PEVANS        Paul Evans
+  24.  121  BARBIE        Barbie
+  25.  121  SIMON         Simon Cozens
+  26.  114  FAYLAND       Fayland Lin
+  27.  114  PEVANS        Paul Evans
+  28.  113  SHLOMIF       Shlomi Fish
+  29.  111  LBROCARD      Leon Brocard
   30.  110  MRAMBERG      Marcus Ramberg
   31.  107  SALVA         Salvador Fandino Garcia
   32.  106  MLEHMANN      Marc Lehmann
-  33.  104  SZABGAB       Gabor Szabo
-  34.  102  DMUEY         Daniel Muey
+  33.  105  SZABGAB       Gabor Szabo
+  34.  104  DMUEY         Daniel Muey
   35.  101  LEOCHARRE     Leo Charre
+  36.  100  NEILB         Neil Bowers
 
-List last updated: 2014-06-26T05:37:23
+List last updated: 2014-08-17T05:30:41
 
 =head1 MAINTENANCE
 
