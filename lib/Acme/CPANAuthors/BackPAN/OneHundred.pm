@@ -4,7 +4,7 @@ use warnings;
 
 {
     no strict "vars";
-    $VERSION = "1.03";
+    $VERSION = "1.04";
 }
 
 use Acme::CPANAuthors::Register (
@@ -85,44 +85,44 @@ See L<http://backpan.cpantesters.org>.
 
 =head1 THE AUTHORS
 
-   1.  503  SHARYANTO     Steven Haryanto
-   2.  306  TOBYINK       Toby Inkster
-   3.  290  RJBS          Ricardo SIGNES
+   1.  507  SHARYANTO     Steven Haryanto
+   2.  312  TOBYINK       Toby Inkster
+   3.  291  RJBS          Ricardo SIGNES
    4.  287  ADAMK         Adam Kennedy
    5.  269  ZOFFIX        Zoffix Znet
-   6.  250  TOKUHIROM     Tokuhiro Matsuno
+   6.  251  TOKUHIROM     Tokuhiro Matsuno
    7.  230  MIYAGAWA      Tatsuhiko Miyagawa
    8.  211  BINGOS        Chris Williams
    9.  207  FLORA         Florian Ragwitz
-  10.  189  SMUELLER      Steffen Mueller
-  11.  188  INGY          Ingy dot Net
+  10.  194  INGY          Ingy dot Net
+  11.  189  SMUELLER      Steffen Mueller
   12.  182  MARCEL        Marcel Gruenauer
-  13.  178  DAGOLDEN      David Golden
+  13.  180  DAGOLDEN      David Golden
   14.  172  BOBTFISH      Tomas Doran
   15.  161  NUFFIN        Yuval Kogman
-  16.  150  ETHER         Karen Etheridge
-  17.  140  KENTNL        Kent Fredric
-  18.  138  DROLSKY       Dave Rolsky
+  16.  154  ETHER         Karen Etheridge
+  17.  149  KENTNL        Kent Fredric
+  18.  139  DROLSKY       Dave Rolsky
   19.  137  DMAKI         Daisuke Maki
   20.  135  GUGOD         Liu Kang Min
-  21.  126  BDFOY         brian d foy
+  21.  127  BDFOY         brian d foy
   22.  125  AUTRIJUS      Audrey Tang
-  23.  123  RSAVAGE       Ron Savage
-  24.  121  BARBIE        Barbie
+  23.  124  BARBIE        Barbie
+  24.  123  RSAVAGE       Ron Savage
   25.  121  SIMON         Simon Cozens
-  26.  114  FAYLAND       Fayland Lin
-  27.  114  PEVANS        Paul Evans
+  26.  120  PEVANS        Paul Evans
+  27.  115  FAYLAND       Fayland Lin
   28.  113  SHLOMIF       Shlomi Fish
   29.  111  LBROCARD      Leon Brocard
   30.  110  MRAMBERG      Marcus Ramberg
-  31.  107  SALVA         Salvador Fandino Garcia
-  32.  106  MLEHMANN      Marc Lehmann
-  33.  105  SZABGAB       Gabor Szabo
-  34.  104  DMUEY         Daniel Muey
-  35.  101  LEOCHARRE     Leo Charre
-  36.  100  NEILB         Neil Bowers
+  31.  110  SZABGAB       Gabor Szabo
+  32.  107  SALVA         Salvador Fandino Garcia
+  33.  106  MLEHMANN      Marc Lehmann
+  34.  106  NEILB         Neil Bowers
+  35.  104  DMUEY         Daniel Muey
+  36.  101  LEOCHARRE     Leo Charre
 
-List last updated: 2014-08-17T05:30:41
+List last updated: 2014-10-04T05:38:47
 
 =head1 MAINTENANCE
 
